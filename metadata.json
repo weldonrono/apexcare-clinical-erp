@@ -1,0 +1,6 @@
+{
+  "name": "ApexCare Clinical ERP",
+  "description": "Enterprise multi-tenant clinical ERP & secure medical records system featuring granular RBAC, immutable SHA-256 audit trails, real-time room queues, and AWS S3 presigned PACS ingestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
